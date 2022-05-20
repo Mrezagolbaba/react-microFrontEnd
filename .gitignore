@@ -1,0 +1,9 @@
+
+/node_modules/*
+/container-app/node_modules/*
+/store-app/node_modules/*
+/blog-app/.DS_Store
+/blog-app/node_modules/*
+.vscode/*
+
+.DS_Store
